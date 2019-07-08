@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>Acne web design</title>
+<title>Acne web design|Home</title>
     <meta charset="utf-8" />
 <meta name="viewport" content="width-device-width" />
  <meta name="description" content="Affordable and professional webdesign" />
@@ -15,12 +15,12 @@
 
         <div class="container">
             <div id="branding">
-                <h1>Acme Web Design</h1>
+                <h1><span class="highlight">Acme</span> Web Design</h1>
             </div>
             <nav>
 
                 <ul>
-                    <li><a href="Defult.aspx">Home</a></li>
+                    <li class="current"><a href="Home.aspx">Home</a></li>
                     <li><a href="About.aspx">About</a></li>
                     <li><a href="Services.aspx">Services</a></li>
                 </ul>
